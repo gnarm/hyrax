@@ -1,0 +1,21 @@
+{
+
+  "name" : "gnarm/hyrax",
+
+  "requires" : {
+
+    "gnarm/coati" : "dev-dev"
+
+  },
+
+  "autoload" : {
+
+    "psr-4" : {
+
+      "Hyrax\\" : "Hyrax/"
+
+    }
+
+  }
+
+}
